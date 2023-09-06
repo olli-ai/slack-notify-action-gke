@@ -5,7 +5,7 @@ runs:
   using: 'docker'
   #image: 'docker://ghcr.io/rtcamp/action-slack-notify:v2.2.0'
   #image: 'docker://harbor.jenkins-x-viettel.iviet.com/sys/action-slack-notify:v2.2.0'
-  image: 'docker://asia-southeast1-docker.pkg.dev/olli-iviet/sys/action-slack-notify' 
+  image: 'docker://asia-southeast1-docker.pkg.dev/olli-iviet/sys/action-slack-notify:v2.2.0' 
 branding:
   icon: 'bell'
   color: 'yellow'
